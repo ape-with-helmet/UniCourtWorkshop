@@ -1,4 +1,4 @@
-Please run the following commands on your virtual machine(linux) or machine with linux OS
+Please run the following commands on your virtual machine(linux) or machine with linux OS.
 
 Make sure you have an active internet connection while running these.
 
